@@ -1,0 +1,18 @@
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\NCLF Frequency Generator.exe.manifest
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\NCLF Frequency Generator.application
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\NCLF Frequency Generator.exe
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\NCLF Frequency Generator.pdb
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\F_G.Form1.resources
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\F_G.Properties.Resources.resources
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.TrustInfo.xml
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.exe.manifest
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.application
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.exe
+C:\Visual Studio Projects\Ding AJ\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.pdb
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\ding.ico
+C:\Visual Studio Projects\Ding AJ\Ding AJ\bin\Debug\EULA.rtf
+C:\Visual Studio Projects\NCLF Frequency Generator\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.exe
+C:\Visual Studio Projects\NCLF Frequency Generator\Ding AJ\obj\x86\Debug\NCLF Frequency Generator.pdb
